@@ -81,8 +81,10 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 
 | Radiology Image                       | Model-generated Report                          |
 | ------------------------------------- | ----------------------------------------------- |
-| ![Image](results/image_1.png) | ![Generation](results/generation_1.png) |
-| ![Image](results/image_2.png) | ![Generation](results/generation_2.png) |
+| ![Image](results/image_1.jpg) | This radiograph appears to be a Panoramic Radiograph, also known as a Pano, of a patient's maxillofacial anatomy.
+
+It shows the left zygomatic bone's relationship to surrounding structures. This patient had suffered a fracture at the same time that the teeth were lost. The fracture appears to be stable, with some misalignment of the lower right lateral incisors. In this case, the radiograph appears to show an older patient whose facial growth may have been complete at the time of injury, based on the overall bony structure. Therefore, any misalignment can be easily managed.  Overall, it seems |
+| ![Image](results/image_1.jpg) | Panoramic radiography. A 23-year-old male patient with KCOT, showing multiple, irregular, sclerotic areas in the maxilla and the mandible, mainly involving the posterior region (arrows). |
 
 ---
 
