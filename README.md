@@ -1,4 +1,4 @@
-# 🩻 Vision Radiology Agent
+# Vision Radiology Agent
 
 This project contains the documentation and result visualizations for a **LoRA-fine-tuned vision-language model** based on **Unsloth / Llama-3.2-11B-Vision-Instruct**, adapted for **radiology image captioning and reporting**.  
 **Training code and raw datasets are not included** in this repository — only the README and result images (learning curves, example generations).
